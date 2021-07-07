@@ -1,0 +1,1 @@
+SELECT * FROM studens WHERE city IN ('Philadelphia', 'Trenton');

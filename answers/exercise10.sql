@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE city not like '%a' OR city not like '%c' OR city not like '%f';
